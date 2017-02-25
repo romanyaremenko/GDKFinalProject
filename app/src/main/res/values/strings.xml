@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final_4</string>
+    <string name="lacosanostra">Пицца-хол Коза Ностра    (La Cosa Nostra)</string>
+    <string name="Razpologeniya">Расположен рядом с центром Черкасс,напротив университета.Дакхэтажное злание с террасой на втором этаже и летней площадкой</string>
+
+    <string name="Pizzahall">Pizza hall (пиццерия)</string>
+    <string name="GrillHall">Grill hall (гриль и мангал меню)</string>
+    <string name="Bankethall">Banket hall (ресторан)</string>
+    <string name="kyhnya">Итальянская и украинская кухня, пицца в ассорименте</string>
+    <string name="wifi">Зона Wi-Fi.</string>
+    <string name="adress">Наш адресс:м.Черкаси,бул.Шевченка,108</string>
+    <string name="email">Наш адрес электронной почты </string>
+    <string name="nomer">Наш номер 0937768619 </string>
+
+
+
+</resources>
